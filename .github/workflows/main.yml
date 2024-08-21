@@ -41,8 +41,7 @@ jobs:
           plugin_licenses_legal: yes
           plugin_lines: yes
           plugin_notable: yes
-          plugin_projects: no
-          plugin_projects_limit: 4
+          plugin_languages_indepth: yes
           plugin_reactions: yes
           plugin_reactions_display: absolute
           plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
