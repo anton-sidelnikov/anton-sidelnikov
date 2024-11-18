@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1050 Commits
+                            1051 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -88,7 +88,7 @@
                                 <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                 <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                             </svg>
-                            33 Issues opened
+                            34 Issues opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -226,20 +226,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 19.3mb of code in 6411 edited files across 618 commits</small>
+                <small>estimation from 19.1mb of code in 6111 edited files across 579 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.00331086266897" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="427.00331086266897" y="0" width="29.79499939307223" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.7983102557412" y="0" width="1.3046485888212507" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.1029588445625" y="0" width="0.8355818334571083" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="458.9385406780196" y="0" width="0.5823352477842357" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.52087592580386" y="0" width="0.2946849375820189" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.8155608633858" y="0" width="0.10639873911950551" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.92195960250535" y="0" width="0.07804039749467863" height="8" fill="#f7931e"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.60267649531227" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="431.60267649531227" y="0" width="25.19531075934547" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.79798725465776" y="0" width="1.2845380577234478" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.08252531238116" y="0" width="0.8445821064533515" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="458.9271074188345" y="0" width="0.5886077348052955" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.51571515363986" y="0" width="0.29785906700887077" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.8135742206487" y="0" width="0.10754478808824575" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.921119008737" y="0" width="0.07888099126307281" height="8" fill="#f7931e"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -324,14 +324,14 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 28 commits)</small>
+                    <small class="h-details">(computed from last 29 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.5 characters per line of code written</li>
+                        <li>Has approximately 36.4 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -1437,7 +1437,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Nov 2024, 10:10:21 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Nov 2024, 11:09:55 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
